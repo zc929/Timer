@@ -1,0 +1,2 @@
+89b7e5ad19c329409fbb3c945b3ddce8d4c8addb65658bac40f1d153a60ec63e  Timer-Setup-1.0.6-x64.exe
+c5b96038626a0a3ee7faf87cd10ed3526cc511c8bf813c868529d80853f7bdbe  Timer-win-x64-v1.0.6.zip
